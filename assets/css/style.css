@@ -436,14 +436,14 @@ header:after {
         opacity: 1;
         transform: translateY(0px); } }
 .nav-btn {
-  display: block;
+  display: none;
   height: 50px;
   position: absolute;
   right: 0;
   top: 0;
   width: 60px;
   padding: 10px 15px;
-  display: block;
+  display: none;
   z-index: 4;
   overflow: hidden; }
   .nav-btn span {
@@ -1011,7 +1011,7 @@ footer {
     margin-right: 18px; }
 
 .footer-item-logo .logo-footer {
-  display: inline-block;
+  display: inline;
   margin-bottom: 16px; }
 .footer-item-logo p {
   margin-bottom: 34px;
@@ -2347,7 +2347,7 @@ blockquote:before {
     z-index: 1; }
     .crossfit-banner-right .text-bottom a {
       font-weight: 700;
-      color: #FF9000;
+      color: #202020;
       position: relative; }
       .crossfit-banner-right .text-bottom a:before {
         content: '';
@@ -2356,7 +2356,7 @@ blockquote:before {
         bottom: -1px;
         left: 0;
         transition: .3s ease;
-        background-color: #FF9000;
+        background-color: #202020;
         height: 2px;
         width: 100%; }
       .crossfit-banner-right .text-bottom a:hover {
