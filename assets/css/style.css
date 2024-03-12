@@ -228,8 +228,8 @@ body.page-loaded {
   margin: 0 auto; }
 
 #cube-loader .cube-loader {
-  width: 73px;
-  height: 73px;
+  width: 150px;
+  height: 150px;
   margin: 0 auto;
   margin-top: 49px;
   position: relative;
